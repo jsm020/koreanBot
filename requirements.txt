@@ -1,0 +1,5 @@
+aiogram
+asyncpg
+google-cloud-translate
+google-cloud-texttospeech
+apscheduler
